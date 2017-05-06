@@ -1,3 +1,3 @@
 echo "Started test.sh"
-echo "exiting with failure"
-exit 1
+echo "exiting with success"
+exit 0
